@@ -48,9 +48,21 @@ var add = function(x, y){
 
 # Today's Lesson
 
-- Create an account
-- Overview of blocks
+- Login and access account
+- Overview of using Scratch
 - Simple motion
 - Repeat loop
 - Use the pen
+
+---
+
+# Simple motion
+
+---
+
+# Repeat loops
+
+---
+
+# Use the pen
 
