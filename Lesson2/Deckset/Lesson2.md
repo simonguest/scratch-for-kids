@@ -9,7 +9,8 @@
 - If/Then Conditionals
 - Broadcasts
 - Operators
-- Sound!
+- 2nd Lesson Challenge!!!
+- Last 5 mins: Sound!
 
 --- 
 
@@ -62,6 +63,21 @@ If (it is raining) do (raise umbrella) else do (put umbrella away)
 ---
 
 # Operators are blocks that you can move into any whitespace
+
+---
+
+# 2nd Lesson Challenge
+
+---
+
+# 2nd Lesson Challenge
+### Create a project that combines random numbers, if/then blocks, and broadcasts.
+#### Work alone or in pairs, and then show to the rest of the class
+
+---
+
+## Idea
+### When Scratch is clicked, he broadcasts a message to another sprite. The other sprite moves a random number of spaces. If the other sprite is on the edge of the screen, it says "Ouch!"
 
 ---
 

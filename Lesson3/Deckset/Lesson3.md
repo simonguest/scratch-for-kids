@@ -6,13 +6,13 @@
 # Today's Lesson
 
 - Variables
-- Operators
+- Using Operators and Conditionals with Variables
 - Lists/Arrays
-- (Spare time / 15 mins)
+- Lesson 3 Challenge!
 
 --- 
 
-# What's a variable?
+# What's a Variable?
 
 --- 
 
@@ -44,7 +44,7 @@
 
 ---
 
-# Operators
+# Using Operators and Conditionals with Variables
 
 --- 
 
@@ -60,10 +60,6 @@ if (number-of-steps > 100) say "I'm tired!"
 
 ---
 
-# Operators in Scratch
-
----
-
 # Lists/Arrays in Scratch
 
 --- 
@@ -72,5 +68,18 @@ if (number-of-steps > 100) say "I'm tired!"
 
 ---
 
-# Lists/Arrays in Scratch
+# 3rd Lesson Challenge
 
+---
+
+# 3rd Lesson Challenge
+### Create a project that combines variables, if/then blocks, and operators.
+#### Work alone or in pairs, and then show to the rest of the class
+#### Bonus points for using random numbers, lists and broadcasts
+
+---
+
+## Idea
+### Scratch asks you five questions in random order. If you get a question right, you score 10 points. At the end of five questions your score is shown.
+
+---
